@@ -12,7 +12,7 @@ EdPython Video Channel: https://www.youtube.com/channel/UCqG2GbvS5WcfkJ-1I7LJ1cA
 
 ### Contact
 
-👋 Hi, I’m @EdPython
+👋 Hi, I’m Ben
 - 👀 I’m interested in Python Code for teaching
 - 🌱 I’m currently teaching Python code on my Youtube Channel
 - 📫 Like to reach out? My email address is on the YT channel.
